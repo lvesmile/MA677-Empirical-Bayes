@@ -1,1 +1,1 @@
-# MA677-In-All-Likelihood
+# MA677-Empirical-Bayes
